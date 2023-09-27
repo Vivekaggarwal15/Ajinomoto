@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "Ajinomoto",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "data-consulting-f35d5745",
+  "defaultLocation": "EU"
+}
+    

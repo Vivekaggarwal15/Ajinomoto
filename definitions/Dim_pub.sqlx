@@ -1,0 +1,5 @@
+config {
+  type: "view"
+}
+
+SELECT * FROM dimensions-ai.data_analytics_eu.publications
